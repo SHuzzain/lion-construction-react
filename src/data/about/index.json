@@ -93,7 +93,7 @@
             "id": "1",
             "buttonText": "Find A Home",
             "active": true,
-            "icon": "flaticon-deal-1",
+            "icon": "crmteam",
             "category": [
                 "buying",
                 "women"
@@ -118,7 +118,7 @@
             "id": "1",
             "buttonText": "Find A Home",
             "active": true,
-            "icon": "flaticon-user",
+            "icon": "techteam",
             "category": [
                 "buying",
                 "women"
@@ -143,7 +143,7 @@
             "id": "1",
             "buttonText": "Find A Home",
             "active": true,
-            "icon": "flaticon-house",
+            "icon": "creativeteam",
             "category": [
                 "buying",
                 "women"
@@ -168,7 +168,7 @@
             "id": "1",
             "buttonText": "Find A Home",
             "active": true,
-            "icon": "flaticon-house-3",
+            "icon": "productionteam",
             "category": [
                 "buying",
                 "women"
@@ -193,7 +193,7 @@
             "id": "1",
             "buttonText": "Find A Home",
             "active": true,
-            "icon": "flaticon-user",
+            "icon": "salesteam",
             "category": [
                 "buying",
                 "women"
@@ -218,7 +218,7 @@
             "id": "1",
             "buttonText": "Find A Home",
             "active": true,
-            "icon": "flaticon-user",
+            "icon": "implementationteam",
             "category": [
                 "buying",
                 "women"
@@ -241,22 +241,22 @@
             {
                 "title": "We Value Creativity",
                 "description": "Creative ideas help turn your dreams into reality. We work hard until everything is exactly how it should be.",
-                "icon": "flaticon-car"
+                "icon": "creativevalue"
             },
             {
                 "title": "Honest and Responsible",
                 "description": "We build strong and flexible steel frames that make buildings safe and long-lasting.",
-                "icon": "flaticon-swimming"
+                "icon": "honesty"
             },
             {
                 "title": "Focus on Quality",
                 "description": "We believe in doing things well, not just quickly. We always aim to provide the best results for you.",
-                "icon": "flaticon-secure-shield"
+                "icon": "quality"
             },
             {
                 "title": "Always Aiming for Excellence",
                 "description": "We design home interiors that are beautiful, comfortable, and practical just the way you want.",
-                "icon": "flaticon-stethoscope"
+                "icon": "excellence"
             }
         ]
     },

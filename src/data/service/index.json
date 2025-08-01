@@ -278,7 +278,7 @@
     "id": "12",
     "buttonText": "Find A Home",
     "active": false,
-    "icon": "flaticon-deal-1",
+    "icon": "smartdesign",
     "category": [
       "buying",
       "women"
@@ -303,7 +303,7 @@
     "id": "13",
     "buttonText": "Find A Home",
     "active": false,
-    "icon": "flaticon-deal-1",
+    "icon": "commercialbuilding",
     "category": [
       "buying",
       "women"
@@ -328,7 +328,7 @@
     "id": "14",
     "buttonText": "Find A Home",
     "active": false,
-    "icon": "flaticon-deal-1",
+    "icon": "hotelinteriors",
     "category": [
       "buying",
       "women"

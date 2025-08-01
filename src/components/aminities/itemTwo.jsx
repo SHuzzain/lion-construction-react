@@ -9,9 +9,9 @@ const AminitiesItemTwo = ({ data, styles }) => {
         <Link href="/shop">
           <span className="category-icon d-flex align-items-center justify-content-center">
             {data?.from === "react-icon" ? (
-              <IconRenderer name={data.icon} className="no-size" />
+              <IconRenderer name={data.icon} className="no-size" size={70}/>
             ) : (
-              <i className={`${data.icon}`}></i>
+              <IconRenderer name={data.icon} className="no-size" size={70}/>
             )}
           </span>
           <span className="category-number">{data.id}</span>

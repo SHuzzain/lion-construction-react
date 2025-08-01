@@ -6,6 +6,7 @@ import TitleSection from "@/components/titleSection";
 import { productSlug } from "@/lib/product";
 import Slider from "react-slick";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
+import IconRenderer from "../icons/iconsRender";
 
 function Feature({
   data,
@@ -105,14 +106,10 @@ function Feature({
                     <div className="ltn__feature-icon d-flex justify-content-center">
                       {iconTag ? (
                         <span>
-                          <i className={`${item.icon}`}></i>
+                          <IconRenderer name={item.icon} className="no-size" size={80}/>
                         </span>
                       ) : (
-                        <img
-                          style={{ filter: "hue-rotate(45deg)" }}
-                          src={`/img/icons/icon-img/${item.img}`}
-                          alt={`${item.title}`}
-                        />
+                        <IconRenderer name={item.icon} className="no-size" size={80}/>
                       )}
                     </div>
                     <div className="ltn__feature-info">
